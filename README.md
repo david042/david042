@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=David042&langs_count=10&theme=tokyonight&layout=compact" alt="Top linguagens" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=David042&langs_count=10&theme=tokyonight&layout=compact" alt="Top linguagens"/></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=David042&show_icons=true&theme=synthwave" alt="Status"/></p>
